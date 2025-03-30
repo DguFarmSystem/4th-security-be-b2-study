@@ -10,4 +10,9 @@ public class FarmsystemController {
     public String Home(){
         return "Hello World1";
     }
+
+    @RequestMapping("/Home/tutorial")
+    public String tutorial(){
+        return "tutorial class";
+    }
 }
