@@ -7,12 +7,14 @@ import org.springframework.web.bind.annotation.RestController;
 public class FarmsystemController {
     
     @RequestMapping("/Home")
-    public String Home(){
+    public String Home()
+    {
         return "Hello Farm System";
     }
 
     @RequestMapping("/tutorial")
-    public String tutorial(){
+    public String tutorial()
+    {
         return "tutorial page";
     }
 }
