@@ -8,11 +8,6 @@ public class FarmsystemController {
     
     @RequestMapping("/Home")
     public String Home(){
-        return "Hello World1";
-    }
-
-    @RequestMapping("/Home/tutorial")
-    public String tutorial(){
-        return "tutorial class";
+        return "this is a change only on FS_1stbranch~~~";
     }
 }
