@@ -15,6 +15,7 @@ public class FarmsystemController {
     @RequestMapping("/tutorial")
     public String tutorial()
     {
-        return "tutorial page + difference";
+        return "tutorial page + difference+";
     }
 }
+
