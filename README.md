@@ -36,13 +36,13 @@ another change
 ### ✅ 과제 2 - 팀 Discord 만들고 PR 알리미 연동하기
 
 - [x] 팀별 디스코드 서버 생성
-- [ ] GitHub Webhook을 통해 PR 알림 연동
+- [x] GitHub Webhook을 통해 PR 알림 연동
 
 ---
 
 ### ✅ 과제 3 - 리뷰어 설정하기
 
-- [ ] Merge 전에 한 명 이상의 리뷰어 `approve`가 필요하도록 설정
+- [x] Merge 전에 한 명 이상의 리뷰어 `approve`가 필요하도록 설정
 
 ---
 
