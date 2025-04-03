@@ -3,9 +3,11 @@ please read me before execute.
 
 another change
 =======
+
 # 🌾 BE-B(1), (2) - 함께하는 과제
 
 ## 📚 학습 목표
+
 > Spring Boot 프로젝트를 효율적으로 진행하기 위한 방법을 익혀봅시다!
 
 ---
@@ -15,21 +17,21 @@ another change
 ### ✅ 과제 1 - 우리 팀 커밋 규칙, 이슈 & PR 템플릿, 라벨 등 정하기
 
 1. Farm System Github 레포지토리
-   - 1팀: [링크 바로가기](https://github.com/DguFarmSystem/4th-security-be-b1-study)
-   - 2팀: [링크 바로가기](https://github.com/DguFarmSystem/4th-security-be-b2-study)
+    - 1팀: [링크 바로가기](https://github.com/DguFarmSystem/4th-security-be-b1-study)
+    - 2팀: [링크 바로가기](https://github.com/DguFarmSystem/4th-security-be-b2-study)
 
 2. 레포지토리 세팅
-   - [x] 커밋 메시지 규칙 정하기 (`feat:`, `fix:`, 등)
-   - [x] 브랜치 전략 정하기 (`main`, `dev`, `feature/`, 등)
-   - [x] 이슈 템플릿 작성
-   - [x] PR 템플릿 작성
-   - [x] 라벨 설정 (예: `bug`, `enhancement`, `documentation` 등)
+    - [x] 커밋 메시지 규칙 정하기 (`feat:`, `fix:`, 등)
+    - [x] 브랜치 전략 정하기 (`main`, `dev`, `feature/`, 등)
+    - [x] 이슈 템플릿 작성
+    - [x] PR 템플릿 작성
+    - [x] 라벨 설정 (예: `bug`, `enhancement`, `documentation` 등)
 
 3. Spring Boot 초기 세팅
-   - [x] Spring Boot 프로젝트 초기화
-   - [x] 기본 `/` 요청을 처리하는 HomeController 작성
-   - [x] `.gitignore`에 `application.yml` 포함
-   - [x] 커밋 및 GitHub 업로드
+    - [x] Spring Boot 프로젝트 초기화
+    - [x] 기본 `/` 요청을 처리하는 HomeController 작성
+    - [x] `.gitignore`에 `application.yml` 포함
+    - [x] 커밋 및 GitHub 업로드
 
 ---
 
@@ -84,4 +86,4 @@ another change
 
 🎉 열심히 협업하며 함께 성장해봐요!  
 코드로, 기록으로, 소통으로 멋진 팀워크를 만들어 봅시다 💪
->>>>>>> origin/main
+> > > > > > > origin/main
