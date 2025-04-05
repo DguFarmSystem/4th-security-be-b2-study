@@ -54,27 +54,27 @@
 
 ### ✅ 과제 1 - EC2, RDS 생성
 
-- [ ] EC2 인스턴스 생성
-- [ ] RDS 인스턴스 생성
-- [ ] `application.yml` 전체를 GitHub Secret에 등록
-- [ ] 공유를 위해 노션에 yml 파일 설명 정리
+- [x] EC2 인스턴스 생성
+- [x] RDS 인스턴스 생성
+- [x] `application.yml` 전체를 GitHub Secret에 등록
+- [x] 공유를 위해 노션에 yml 파일 설명 정리
 
 ---
 
 ### ✅ 과제 2 - CI/CD 파이프라인 구축
 
-- [ ] GitHub Actions + EC2 + Docker로 파이프라인 구축
-- [ ] Push/Merge 시 자동 배포 확인
-- [ ] 배포 서버에서 반영된 수정 사항 확인
-- [ ] 각 설정 및 코드 설명을 노션 또는 블로그에 정리
-- [ ] 리드미에 결과물 링크 첨부
+- [x] GitHub Actions + EC2 + Docker로 파이프라인 구축
+- [x] Push/Merge 시 자동 배포 확인
+- [x] 배포 서버에서 반영된 수정 사항 확인
+- [x] 각 설정 및 코드 설명을 노션 또는 블로그에 정리
+- [x] 리드미에 결과물 링크 첨부
 
 ---
 
 ## 🔍 챌린지 완료 체크리스트
 
-- [ ] PR, Issue, Commit, Branch 이름을 규칙에 따라 작성했는가?
-- [ ] GitHub에 커밋했을 때 수정 사항이 정상 반영되는가?
+- [x] PR, Issue, Commit, Branch 이름을 규칙에 따라 작성했는가?
+- [x] GitHub에 커밋했을 때 수정 사항이 정상 반영되는가?
 
 ---
 
